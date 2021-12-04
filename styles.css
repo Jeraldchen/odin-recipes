@@ -1,0 +1,8 @@
+.centralize {
+    text-align: center;
+}
+
+.salmon-img, .prime-rib-img {
+    width: 500px;
+    height: auto;
+}
